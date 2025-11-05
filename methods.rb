@@ -3,7 +3,7 @@ def greet_programmer
 end
 
 def greet(name)
-  puts "Hello, #{name}!"
+  puts "hot pocket, #{name}!"
 end
 
 def greet_with_default(name = "Naureen")
@@ -27,5 +27,5 @@ def halve(number)
     return nil
   end
   number / 2
-  
+
 end
