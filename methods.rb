@@ -27,5 +27,5 @@ def halve(number)
     return nil
   end
   number / 2
-end
   
+end
